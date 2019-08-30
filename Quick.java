@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//
 class Quick{
 	public static int size;
 	
