@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//Merge sorting..
+//Merge sort..
 class Merge{
 	public static int size;
 	
